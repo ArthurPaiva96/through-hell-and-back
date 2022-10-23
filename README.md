@@ -29,3 +29,7 @@ Killing an enemy gives the player 1 point. The player's points can be seen at th
 - Restart the game after a game over.
 - **Bird monsters**, **Demons** and **Black arms" only appearing after the player gets a certain amount of points(a number of points for each one).
 - A final boss that appears after a certain amount of points.
+
+# Warning
+
+This game was made in september 2020(Unity version 2020.1.4f1), so Unity's newer versions can be incompatible with the code.
