@@ -54,9 +54,11 @@ public class Player : MonoBehaviour{
     {
         if (Input.GetKeyDown(KeyCode.Space) && this.timeUntilNextMagic <= 0)
         {
+            
             Instantiate(this.magicShot, new Vector3(this.transform.position.x + 0.5f, 
                                                     this.transform.position.y, 
                                                     this.transform.position.z), Quaternion.identity);
+            Debug.Log(this.transform.position.z);
 
             this.timeUntilNextMagic = this.magicCooldownTime;
         }
