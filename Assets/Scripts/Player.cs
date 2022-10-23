@@ -58,7 +58,6 @@ public class Player : MonoBehaviour{
             Instantiate(this.magicShot, new Vector3(this.transform.position.x + 0.5f, 
                                                     this.transform.position.y, 
                                                     this.transform.position.z), Quaternion.identity);
-            Debug.Log(this.transform.position.z);
 
             this.timeUntilNextMagic = this.magicCooldownTime;
         }
