@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 068f2e4710a7d2040ad6913f0fc17976
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9023461177886029966
+    second: demonhand_0
+  - first:
+      213: -7079834002453476753
+    second: demonhand_1
+  - first:
+      213: -4156915379835526858
+    second: demonhand_2
+  - first:
+      213: 8180369566793008695
+    second: demonhand_3
+  - first:
+      213: 2423699993600877693
+    second: demonhand_4
+  - first:
+      213: 1668067351458489736
+    second: demonhand_5
+  - first:
+      213: -5555548263902230736
+    second: demonhand_6
+  - first:
+      213: -4460872941771920930
+    second: demonhand_7
+  - first:
+      213: 7008880352801002121
+    second: demonhand_8
+  - first:
+      213: 4037604023286845444
+    second: demonhand_9
+  - first:
+      213: -7349392365811543621
+    second: demonhand_10
+  - first:
+      213: -5709541126627734010
+    second: demonhand_11
+  - first:
+      213: -2763723321985470915
+    second: demonhand_12
+  - first:
+      213: -1175587888240417649
+    second: demonhand_13
+  - first:
+      213: 4420245711159630645
+    second: demonhand_14
+  - first:
+      213: -7159976021345617742
+    second: demonhand_15
+  - first:
+      213: 7549209464320181308
+    second: demonhand_16
+  - first:
+      213: 2492601086369212562
+    second: demonhand_17
+  - first:
+      213: 1122984428708859874
+    second: demonhand_18
+  - first:
+      213: 8992011914688417764
+    second: demonhand_19
+  - first:
+      213: -3135399152023065937
+    second: demonhand_20
+  - first:
+      213: -5046055498043104108
+    second: demonhand_21
+  - first:
+      213: -1304611086501912624
+    second: demonhand_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: demonhand_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2774397fdd936c280800000000000000
+      internalID: -9023461177886029966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonhand_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a470f3c706fbd90800000000000000
+      internalID: -7079834002453476753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonhand_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7360d1097c2868170800000000000000
+      internalID: 8180369566793008695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonhand_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 36
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8852c191b6a262710800000000000000
+      internalID: 1668067351458489736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonhand_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037c19dd94ab6e2b0800000000000000
+      internalID: -5555548263902230736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonhand_7
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed96885b1bbc712c0800000000000000
+      internalID: -4460872941771920930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonhand_8
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 41
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9821be5db8b844160800000000000000
+      internalID: 7008880352801002121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonhand_9
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40053bf8773780830800000000000000
+      internalID: 4037604023286845444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonhand_10
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 0
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1d5d00596b10a90800000000000000
+      internalID: -7349392365811543621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonhand_13
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 0
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ad2f4b097fafe0800000000000000
+      internalID: -1175587888240417649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonhand_15
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 0
+        width: 93
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b831676eb7a2ac90800000000000000
+      internalID: -7159976021345617742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonhand_16
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 0
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3442d7a20e24c860800000000000000
+      internalID: 7549209464320181308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonhand_17
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 0
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2982acf4b7f779220800000000000000
+      internalID: 2492601086369212562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonhand_18
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 0
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef8c795364a59f00800000000000000
+      internalID: 1122984428708859874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonhand_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 82
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef4517d13b0acc70800000000000000
+      internalID: 8992011914688417764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

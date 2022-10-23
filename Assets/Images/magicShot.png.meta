@@ -1,0 +1,1075 @@
+fileFormatVersion: 2
+guid: 41644c8cda7f6ef44a83923e311c4928
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6888855237690745757
+    second: magic-flame-effect_crop_paint_0
+  - first:
+      213: 273575992876477336
+    second: magic-flame-effect_crop_paint_1
+  - first:
+      213: -4225834221277210545
+    second: magic-flame-effect_crop_paint_2
+  - first:
+      213: 122755215488940145
+    second: magic-flame-effect_crop_paint_3
+  - first:
+      213: 192510299514427742
+    second: magic-flame-effect_crop_paint_4
+  - first:
+      213: -7152219634740340124
+    second: magic-flame-effect_crop_paint_5
+  - first:
+      213: -7244256886421510505
+    second: magic-flame-effect_crop_paint_6
+  - first:
+      213: 899636562216869037
+    second: magic-flame-effect_crop_paint_7
+  - first:
+      213: -4134856099421926674
+    second: magic-flame-effect_crop_paint_8
+  - first:
+      213: -337542032512916920
+    second: magic-flame-effect_crop_paint_9
+  - first:
+      213: -2163150132099574492
+    second: magic-flame-effect_crop_paint_10
+  - first:
+      213: -7019634014428451669
+    second: magic-flame-effect_crop_paint_11
+  - first:
+      213: -8311335850803212198
+    second: magic-flame-effect_crop_paint_12
+  - first:
+      213: -1548092375879351429
+    second: magic-flame-effect_crop_paint_13
+  - first:
+      213: -4116581902810084803
+    second: magic-flame-effect_crop_paint_14
+  - first:
+      213: 8427409261522682616
+    second: magic-flame-effect_crop_paint_15
+  - first:
+      213: -4000859273169934602
+    second: magic-flame-effect_crop_paint_16
+  - first:
+      213: -8578343351431533144
+    second: magic-flame-effect_crop_paint_17
+  - first:
+      213: 8230293515203925739
+    second: magic-flame-effect_crop_paint_18
+  - first:
+      213: -4111699752795703207
+    second: magic-flame-effect_crop_paint_19
+  - first:
+      213: -4790240222484303020
+    second: magic-flame-effect_crop_paint_20
+  - first:
+      213: 6794443856490020315
+    second: magic-flame-effect_crop_paint_21
+  - first:
+      213: -7110532468891078806
+    second: magic-flame-effect_crop_paint_22
+  - first:
+      213: 5707297500254592870
+    second: magic-flame-effect_crop_paint_23
+  - first:
+      213: 7723546530382609425
+    second: magic-flame-effect_crop_paint_24
+  - first:
+      213: -1121825176506288390
+    second: magic-flame-effect_crop_paint_25
+  - first:
+      213: 6684910756799071211
+    second: magic-flame-effect_crop_paint_26
+  - first:
+      213: 1445403329150591765
+    second: magic-flame-effect_crop_paint_27
+  - first:
+      213: 5271411293087470731
+    second: magic-flame-effect_crop_paint_28
+  - first:
+      213: 7378384888121203749
+    second: magic-flame-effect_crop_paint_29
+  - first:
+      213: -6123994069424058683
+    second: magic-flame-effect_crop_paint_30
+  - first:
+      213: 790161851387199692
+    second: magic-flame-effect_crop_paint_31
+  - first:
+      213: -4291547554828031558
+    second: magic-flame-effect_crop_paint_32
+  - first:
+      213: -4045562656091121545
+    second: magic-flame-effect_crop_paint_33
+  - first:
+      213: 98026979212576761
+    second: magic-flame-effect_crop_paint_34
+  - first:
+      213: -1570732441938824018
+    second: magic-flame-effect_crop_paint_35
+  - first:
+      213: 2901285606885969869
+    second: magic-flame-effect_crop_paint_36
+  - first:
+      213: 4354829849275781582
+    second: magic-flame-effect_crop_paint_37
+  - first:
+      213: -4708708127193359278
+    second: magic-flame-effect_crop_paint_38
+  - first:
+      213: 1053405984493319087
+    second: magic-flame-effect_crop_paint_39
+  - first:
+      213: 4269204041097847377
+    second: magic-flame-effect_crop_paint_40
+  - first:
+      213: -1762083639565188957
+    second: magic-flame-effect_crop_paint_41
+  - first:
+      213: -6760659279635766827
+    second: magic-flame-effect_crop_paint_42
+  - first:
+      213: -5838445014462942584
+    second: magic-flame-effect_crop_paint_43
+  - first:
+      213: 3217863129785113870
+    second: magic-flame-effect_crop_paint_44
+  - first:
+      213: 5328701070969371880
+    second: magic-flame-effect_crop_paint_45
+  - first:
+      213: -6435286595454557188
+    second: magic-flame-effect_crop_paint_46
+  - first:
+      213: -3744220462854656412
+    second: magic-flame-effect_crop_paint_47
+  - first:
+      213: -417689749146129275
+    second: magic-flame-effect_crop_paint_48
+  - first:
+      213: -3228647911011153849
+    second: magic-flame-effect_crop_paint_49
+  - first:
+      213: -4786275408951783688
+    second: magic-flame-effect_crop_paint_50
+  - first:
+      213: -229461820383394473
+    second: magic-flame-effect_crop_paint_51
+  - first:
+      213: -7479150042241413876
+    second: magic-flame-effect_crop_paint_52
+  - first:
+      213: -4652988212154910004
+    second: magic-flame-effect_crop_paint_53
+  - first:
+      213: -6099012803733947333
+    second: magic-flame-effect_crop_paint_54
+  - first:
+      213: -6877711408098355929
+    second: magic-flame-effect_crop_paint_55
+  - first:
+      213: 7450916263884621482
+    second: magic-flame-effect_crop_paint_56
+  - first:
+      213: -3552420660906528979
+    second: magic-flame-effect_crop_paint_57
+  - first:
+      213: 7615804385775176
+    second: magic-flame-effect_crop_paint_58
+  - first:
+      213: 5042007757504380070
+    second: magic-flame-effect_crop_paint_59
+  - first:
+      213: 6881278993227548918
+    second: magic-flame-effect_crop_paint_60
+  - first:
+      213: 3487936600188377289
+    second: magic-flame-effect_crop_paint_61
+  - first:
+      213: 574265133899566653
+    second: magic-flame-effect_crop_paint_62
+  - first:
+      213: -7819010802326945751
+    second: magic-flame-effect_crop_paint_63
+  - first:
+      213: -6444925773396640346
+    second: magic-flame-effect_crop_paint_64
+  - first:
+      213: 104202618296482927
+    second: magic-flame-effect_crop_paint_65
+  - first:
+      213: -3564117640465872471
+    second: magic-flame-effect_crop_paint_66
+  - first:
+      213: 6096784930734748896
+    second: magic-flame-effect_crop_paint_67
+  - first:
+      213: 124331553057821484
+    second: magic-flame-effect_crop_paint_68
+  - first:
+      213: 6238445378378052486
+    second: magic-flame-effect_crop_paint_69
+  - first:
+      213: -8405036432253756701
+    second: magic-flame-effect_crop_paint_70
+  - first:
+      213: -7933194241973810855
+    second: magic-flame-effect_crop_paint_71
+  - first:
+      213: -8679374649300536832
+    second: magic-flame-effect_crop_paint_72
+  - first:
+      213: -658425549252001085
+    second: magic-flame-effect_crop_paint_73
+  - first:
+      213: -814823876546934972
+    second: magic-flame-effect_crop_paint_74
+  - first:
+      213: -766079038064678494
+    second: magic-flame-effect_crop_paint_75
+  - first:
+      213: 5142288697827233764
+    second: magic-flame-effect_crop_paint_76
+  - first:
+      213: 6811372665274055347
+    second: magic-flame-effect_crop_paint_77
+  - first:
+      213: -6165527043335258579
+    second: magic-flame-effect_crop_paint_78
+  - first:
+      213: 1767374329614537366
+    second: magic-flame-effect_crop_paint_79
+  - first:
+      213: -4018010183559270147
+    second: magic-flame-effect_crop_paint_80
+  - first:
+      213: -4159792205118060088
+    second: magic-flame-effect_crop_paint_81
+  - first:
+      213: 8552427899722900048
+    second: magic-flame-effect_crop_paint_82
+  - first:
+      213: -1953533088585798224
+    second: magic-flame-effect_crop_paint_83
+  - first:
+      213: 2002353625695676427
+    second: magic-flame-effect_crop_paint_84
+  - first:
+      213: 5386117125051736553
+    second: magic-flame-effect_crop_paint_85
+  - first:
+      213: 4651941618022812476
+    second: magic-flame-effect_crop_paint_86
+  - first:
+      213: -5420478263676191275
+    second: magic-flame-effect_crop_paint_87
+  - first:
+      213: 8125681242238821431
+    second: magic-flame-effect_crop_paint_88
+  - first:
+      213: 2400719523385827048
+    second: magic-flame-effect_crop_paint_89
+  - first:
+      213: 7942082899984519746
+    second: magic-flame-effect_crop_paint_90
+  - first:
+      213: 3268602356264276547
+    second: magic-flame-effect_crop_paint_91
+  - first:
+      213: 5007963530731065112
+    second: magic-flame-effect_crop_paint_92
+  - first:
+      213: -4035051254099590992
+    second: magic-flame-effect_crop_paint_93
+  - first:
+      213: -5259133565856078104
+    second: magic-flame-effect_crop_paint_94
+  - first:
+      213: -4413428885866206290
+    second: magic-flame-effect_crop_paint_95
+  - first:
+      213: -4256541943344071132
+    second: magic-flame-effect_crop_paint_96
+  - first:
+      213: -3064858850119071259
+    second: magic-flame-effect_crop_paint_97
+  - first:
+      213: -8290767338502360254
+    second: magic-flame-effect_crop_paint_98
+  - first:
+      213: -6445983524535035197
+    second: magic-flame-effect_crop_paint_99
+  - first:
+      213: 414909099944143202
+    second: magic-flame-effect_crop_paint_100
+  - first:
+      213: 4864005920943360273
+    second: magic-flame-effect_crop_paint_101
+  - first:
+      213: -2565859132350252428
+    second: magic-flame-effect_crop_paint_102
+  - first:
+      213: -4004097117581259472
+    second: magic-flame-effect_crop_paint_103
+  - first:
+      213: 7908220548890160219
+    second: magic-flame-effect_crop_paint_104
+  - first:
+      213: 6008028642257082255
+    second: magic-flame-effect_crop_paint_105
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 780
+        width: 112
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c9a58f8aed560a0800000000000000
+      internalID: -6888855237690745757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 765
+        width: 158
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b2a728aefebc300800000000000000
+      internalID: 273575992876477336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_2
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 778
+        width: 187
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4815194a22da55c0800000000000000
+      internalID: -4225834221277210545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 765
+        width: 220
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e595922f81feba200800000000000000
+      internalID: 192510299514427742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_5
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 764
+        width: 249
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a5ab3e2263ebc90800000000000000
+      internalID: -7152219634740340124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_6
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 759
+        width: 242
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7962b275eba377b90800000000000000
+      internalID: -7244256886421510505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_8
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 776
+        width: 243
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea4994f84a0e96c0800000000000000
+      internalID: -4134856099421926674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 599
+        width: 259
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0cff2740837fa00800000000000000
+      internalID: 790161851387199692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_32
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 603
+        width: 232
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab967c98c3c5174c0800000000000000
+      internalID: -4291547554828031558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_33
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 616
+        width: 230
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7785a17d2364bd7c0800000000000000
+      internalID: -4045562656091121545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_35
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 612
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4fd098a23a33ae0800000000000000
+      internalID: -1570732441938824018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_36
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 612
+        width: 222
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf446643ef634820800000000000000
+      internalID: 2901285606885969869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_37
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 606
+        width: 229
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1d95fcca67f6c30800000000000000
+      internalID: 4354829849275781582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_43
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 432
+        width: 249
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8823948513da9fea0800000000000000
+      internalID: -5838445014462942584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_45
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 430
+        width: 251
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec7f51346953f940800000000000000
+      internalID: 5328701070969371880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_47
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 424
+        width: 269
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eacc6a35bd90cc0800000000000000
+      internalID: -3744220462854656412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_49
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 426
+        width: 277
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7488f5fb4d98133d0800000000000000
+      internalID: -3228647911011153849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_52
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 405
+        width: 241
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d4a5ea9a8b43890800000000000000
+      internalID: -7479150042241413876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_54
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 417
+        width: 245
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cf0e04b24fb5ba0800000000000000
+      internalID: -6099012803733947333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_60
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 237
+        width: 286
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f88fa729c63f7f50800000000000000
+      internalID: 6881278993227548918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_62
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 242
+        width: 281
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ec9f0c81338f700800000000000000
+      internalID: 574265133899566653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_63
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 240
+        width: 281
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9204c582a1b4d7390800000000000000
+      internalID: -7819010802326945751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_65
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 248
+        width: 285
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c3a30bab3327100800000000000000
+      internalID: 104202618296482927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_67
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 243
+        width: 286
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e43664a7912c9450800000000000000
+      internalID: 6096784930734748896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_69
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 226
+        width: 287
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683b6e8d409639650800000000000000
+      internalID: 6238445378378052486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_85
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 110
+        width: 265
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e16b550df45fba40800000000000000
+      internalID: 5386117125051736553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_88
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 107
+        width: 269
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73423b1c90834c070800000000000000
+      internalID: 8125681242238821431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_91
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 76
+        width: 268
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342132576886c5d20800000000000000
+      internalID: 3268602356264276547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_92
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 90
+        width: 292
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f06514c4cdf7540800000000000000
+      internalID: 5007963530731065112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_93
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 62
+        width: 269
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b046e4534e9008c0800000000000000
+      internalID: -4035051254099590992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-flame-effect_crop_paint_96
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 100
+        width: 270
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42efc6797a9bde4c0800000000000000
+      internalID: -4256541943344071132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
